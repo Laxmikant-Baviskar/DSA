@@ -22,4 +22,5 @@ def average(l):
 
 
 l = [10, 20, 30, 40]
+
 print(average(l))        # output --->  25.0
